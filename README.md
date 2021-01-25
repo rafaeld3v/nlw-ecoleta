@@ -4,8 +4,16 @@ Participei do evento Next Level Week (NLW), um evento para dar o próximo passo 
 
 # Como executar o projeto
 Ferramentas que você deverá instalar no seu computador:
-Pré-requisitos:
 
-- NPM
-- EXPRESS
-- NUNJUCKS TEMPLATE
+Programs:
+- vscode
+- node
+- git
+
+Dependencies:
+- express
+- sqlite3
+- nunjucks
+
+DevDependencies:
+- nodemon
