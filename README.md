@@ -1,5 +1,7 @@
 # Ecoleta
-Projeto idealizado pela Rocketseat, projeto elaborado no evento Next Level Week (NLW) pelo professor Mayk Brito.
+
+# Next Level Week - Rocketseat
+Projeto idealizado pela Rocketseat, projeto elaborado no evento Next Level Week (NLW) juntamente com professor Mayk Brito.
 
 # Como executar o projeto
 Ferramentas que você deverá instalar no seu computador:
